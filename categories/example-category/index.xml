@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Hugo Theme Stack Starter</title>
-        <link>https://demo.stack.jimmycai.com/post/</link>
-        <description>Recent content in Posts on Hugo Theme Stack Starter</description>
+        <title>Example Category on Hugo Theme Stack Starter</title>
+        <link>https://demo.stack.jimmycai.com/categories/example-category/</link>
+        <description>Recent content in Example Category on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/example-category/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
         <link>https://demo.stack.jimmycai.com/p/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
